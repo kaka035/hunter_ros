@@ -4,7 +4,7 @@
 
 * hunter_bringup: launch and configuration files to start ROS nodes 
 * hunter_base: a ROS wrapper around Hunter SDK to monitor and control the robot
-* hunter_msgs: scout related message definitions
+* hunter_msgs: hunter related message definitions
 * (hunter_robot: meta package for the Hunter robot ROS packages)
 
 ## Basic Usage
@@ -28,7 +28,7 @@
     $ cd ..
     $ catkin_make
     ```
-3. Scout communication mode
+3. Hunter communication mode
     
     ３．1. Can port communication
     
