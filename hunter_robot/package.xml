@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>hunter_robot</name>
+  <version>0.3.3</version>
+  <description>Metapackage for AgileX Hunter robot software</description>
+
+  <maintainer email="ruixiang.du@gmail.com">Ruixiang Du</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">TODO</url>
+  <url type="bugtracker">TODO</url>
+  <url type="repository">TODO</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>hunter_bringup</run_depend>
+  <run_depend>hunter_base</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

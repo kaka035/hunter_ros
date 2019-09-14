@@ -1,0 +1,3 @@
+<launch>
+    <include file="$(find hunter_base)/launch/hunter_base.launch" />
+</launch>
